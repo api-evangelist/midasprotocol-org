@@ -1,4 +1,4 @@
-# midasprotocol-org
+# MIDAS Protocol
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,135 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-midasprotocol-org is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://midasprotocol.org/
+MIDAS Protocol is a decentralized financial system designed for AI agents, offering payments, lending, contracts, negotiations, escrow, and subscriptions. It operates on Base L2 using USDC, providing low-latency transactions, reputation-based limits, and built‑in security features such as prompt‑injection shielding and human‑in‑the‑loop approvals. The platform enables autonomous agents to transact, settle, and build trust without needing traditional crypto gas fees.
+
+**Areas:** Finance · AI · Payments · Decentralized · Protocol
+
+## MIDAS Protocol on APIs.io
+
+Everything profiled for MIDAS Protocol is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/midasprotocol-org/](https://apis.io/providers/midasprotocol-org/)** — or go straight to one of the APIs or properties below.
+
+### APIs (4)
+
+- [MIDAS Protocol API](https://apis.io/apis/midasprotocol-org/midas-protocol-api/) — The MIDAS Protocol provides a REST API for agents to register, manage profiles, send payments, and handle webhooks. Documentation is hosted at…
+- [MIDAS Protocol agents API](https://apis.io/apis/midasprotocol-org/agents-api/) — MIDAS Protocol agents API as documented publicly: 6 operations. Contract generated from the documentation by API Evangelist (2026-11-18); not the provider's…
+- [MIDAS Protocol betting API](https://apis.io/apis/midasprotocol-org/betting-api/) — MIDAS Protocol betting API as documented publicly: 5 operations. Contract generated from the documentation by API Evangelist (2026-11-18); not the…
+- [MIDAS Protocol core API](https://apis.io/apis/midasprotocol-org/core-api/) — MIDAS Protocol core API as documented publicly: 9 operations. Contract generated from the documentation by API Evangelist (2026-11-18); not the provider's…
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### AsyncAPI (1)
+
+Event-driven and webhook contracts.
+
+- [Midasprotocol Org Webhooks](https://apis.io/asyncapis/midasprotocol-org/midasprotocol-org-webhooks/)
+
+#### JSON Schema (18)
+
+The data models the API reads and writes.
+
+- [DeleteAgentsMeBlockAgentidResponse](https://apis.io/schemas/midasprotocol-org/midasprotocol-org-delete-agents-me-block-agentid-response/)
+- [GetAgentsMeBlocksResponse](https://apis.io/schemas/midasprotocol-org/midasprotocol-org-get-agents-me-blocks-response/)
+- [GetAgentsMeResponse](https://apis.io/schemas/midasprotocol-org/midasprotocol-org-get-agents-me-response/)
+- [GetAgentsMeWebhookResponse](https://apis.io/schemas/midasprotocol-org/midasprotocol-org-get-agents-me-webhook-response/)
+- [GetBettingIdAcceptResponse](https://apis.io/schemas/midasprotocol-org/midasprotocol-org-get-betting-id-accept-response/)
+- [GetBettingOpenResponse](https://apis.io/schemas/midasprotocol-org/midasprotocol-org-get-betting-open-response/)
+- [GetBettingResponse](https://apis.io/schemas/midasprotocol-org/midasprotocol-org-get-betting-response/)
+- [GetLendingRepayLoanidResponse](https://apis.io/schemas/midasprotocol-org/midasprotocol-org-get-lending-repay-loanid-response/)
+- [GetWalletsFundResponse](https://apis.io/schemas/midasprotocol-org/midasprotocol-org-get-wallets-fund-response/)
+- [GetX402PayResponse](https://apis.io/schemas/midasprotocol-org/midasprotocol-org-get-x402-pay-response/)
+- [PostAgentsMeBlockRequest](https://apis.io/schemas/midasprotocol-org/midasprotocol-org-post-agents-me-block-request/)
+- [PostBettingIdAcceptResponse](https://apis.io/schemas/midasprotocol-org/midasprotocol-org-post-betting-id-accept-response/)
+- [PostBettingRequest](https://apis.io/schemas/midasprotocol-org/midasprotocol-org-post-betting-request/)
+- [PostBettingResponse](https://apis.io/schemas/midasprotocol-org/midasprotocol-org-post-betting-response/)
+- [PostLendingRepayLoanidResponse](https://apis.io/schemas/midasprotocol-org/midasprotocol-org-post-lending-repay-loanid-response/)
+- [PostPaymentsSendResponse](https://apis.io/schemas/midasprotocol-org/midasprotocol-org-post-payments-send-response/)
+- [PostWalletsFundResponse](https://apis.io/schemas/midasprotocol-org/midasprotocol-org-post-wallets-fund-response/)
+- [PutAgentsMeWebhookResponse](https://apis.io/schemas/midasprotocol-org/midasprotocol-org-put-agents-me-webhook-response/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Midasprotocol Org Context](https://apis.io/jsonld/midasprotocol-org/midasprotocol-org-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [MIDAS Protocol API Rules](https://apis.io/rules/midasprotocol-org/midasprotocol-org-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [MIDAS Protocol Authentication](https://apis.io/security/midasprotocol-org/midasprotocol-org-authentication/)
+- [MIDAS Protocol Domain Security](https://apis.io/security/midasprotocol-org/midasprotocol-org-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://midasprotocol.org/)
+- [Documentation](https://docs.midasprotocol.org/)
+- [Getting started](https://docs.midasprotocol.org/guides/quickstart.md)
+- [API reference](https://docs.midasprotocol.org/integrations/openapi.md)
+- [Support](https://docs.midasprotocol.org/security/overview.md)
+
+## API Evangelist rating
+
+**Kin Score 41.8** — developing · rubric 0.27.0 · scored 2026-11-18
+
+| Facet | Score |
+|---|---|
+| Discoverability | 67.9 |
+| Contract quality | 64.8 |
+| Contract governance | 79.1 |
+| Operational transparency | 7.9 |
+| Developer ergonomics | 45.2 |
+| Access clarity | 0.0 |
+
+**Agent readiness 33.5** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | verified |
+| Rate Limit Signal | — |
+| Event Surface Described | unknown |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | conformant |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | — |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 14.2** — Payments
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/midasprotocol-org/](https://apis.io/providers/midasprotocol-org/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for MIDAS Protocol: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/midasprotocol-org/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
